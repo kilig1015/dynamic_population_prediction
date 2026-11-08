@@ -1,0 +1,11 @@
+pandas==2.3.2
+geopandas==1.0.1
+numpy==1.26.4
+matplotlib==3.9.4
+scipy==1.13.1
+torch==2.7.1
+scikit-learn==1.6.1
+gdal==3.6.2
+rasterio==1.4.3
+fiona==1.10.1
+pillow==10.4.0

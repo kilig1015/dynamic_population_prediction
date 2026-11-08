@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20260410</CreaDate><CreaTime>21031500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="f:\pro\Resources\ArcToolbox\toolboxes\GeoAnalytics Desktop Tools.tbx\SummarizeWithin" Date="20260410" Time="210315">SummarizeWithin stops G:\DTA\idea\population\IJGIS\dynamic_population_prediction\data\shapefiles\stops_sum.shp POLYGON # # 街道级 ADD_SUMMARY # # # # NO_MIN_MAJ # #</Process></lineage></DataProperties></Esri></metadata>
